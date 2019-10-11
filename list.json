@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Toto",
+    "email": "toto@email.com",
+    "restriction": "Tata",
+    "chosen": ""
+  },
+  {
+    "name": "Tata",
+    "email": "tata@email.com",
+    "restriction": "Toto",
+    "chosen": ""
+  },
+  {
+    "name": "Lou",
+    "email": "Lou@email.com",
+    "restriction": "",
+    "chosen": ""
+  }
+]
